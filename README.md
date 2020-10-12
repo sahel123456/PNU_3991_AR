@@ -23,7 +23,7 @@
 [1115029_02	سمينار	2](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-1)
 
 --------------
-## روز و ساعت ارائه دروس
+## روز و ساعت دروس
 
 <table style="width:100%">
   <tr>
