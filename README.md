@@ -23,7 +23,7 @@
 [1115029_02	سمينار	2](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-1)
 
 --------------
-## روز و ساعت دروس
+## روز و ساعت ارائه دروس
 
 <table style="width:100%">
   <tr>
@@ -37,7 +37,7 @@
   <tr>
     <th ></th>
     <th ></th>
-    <th ></th> 
+    <th ></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -51,10 +51,10 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+     <th></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
@@ -71,15 +71,15 @@
     <th ></th>
     <th></th>
     <th></th>
-    <th ></th>
+     <th ></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
-    <th >معماری نرم افزار</th>
-    <th>متدولوژی ایجاد نرم افزار</th>
-    <th>مهندسی نرم افزار پیشرفته</th>
+     <th ></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
