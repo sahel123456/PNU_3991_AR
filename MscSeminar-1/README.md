@@ -1,4 +1,13 @@
 <table style="width:100%">
+  
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+  </tr>
   <tr>
     <th >نام درس :سمینار1و2</th>
   </tr>
@@ -10,14 +19,6 @@
     <p>اعضای گروه1</p>
       <p>سرگروه تیم:سحرزینی وندمقدم</p>
     </th>
-  </tr>
-  <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
   </tr>
   <tr>
     <th></th>
