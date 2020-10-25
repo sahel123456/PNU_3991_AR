@@ -7,7 +7,7 @@
 
 - [رزومه](https://saharzeinivand.github.io/Resume/)
 
-- [SOP](https://saharzeinivand.github.io/SOP/. )
+- [SOP](https://saharzeinivand.github.io/SOP/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
