@@ -36,7 +36,7 @@
  </tr>
  
  <tr>
- <td  align="center"></td>
+ <td  align="center">https://mohamadimahnaz.github.io/sop/</td>
  <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
  <td  align="center">سمینار/پایان نامه</td>
  <td  align="center">کلثوم محمدی</td>
