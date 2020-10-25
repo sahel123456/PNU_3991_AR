@@ -5,7 +5,7 @@
 </tr>
   
 <tr>
- <th  align="center">فعالیت ها(یافته ها)</th>
+ <th  align="center">مقالات</th>
  <th  align="center">نام/نام خانوادگی</th>
  <th  align="center">شماره دانشجویی</th>
  <th  align="center">ردیف</th>
