@@ -50,7 +50,7 @@
  <td  align="center">سمینار</td>
  <td  align="center">سیدعلی محترمی</td>
  <td  align="center">980199610</td>
- <td align="center">4</td>
+ <td align="center">3</td>
  </tr>
  
  <tr>
@@ -59,7 +59,7 @@
  <td  align="center">سمینار تتبع</td>
  <td  align="center">علیرضا سعیدی پور</td>
  <td  align="center">970208157</td>
- <td align="center">3</td>
+ <td align="center">4</td>
  </tr>
  
  
