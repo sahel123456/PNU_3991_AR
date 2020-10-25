@@ -64,7 +64,9 @@
 </table>
 
 ----------------------------------
+
 <table style="width:100%">
+  
 <tr>
 <td colspan="6"  align="center">نام درس :سمینار1و2</td>
 </tr>
