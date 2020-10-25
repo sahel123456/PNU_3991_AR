@@ -20,7 +20,6 @@
 <tr>
  <th  align="center">SOP</th>
  <th  align="center">رزومه</th>
- <th  align="center">درس</th>
  <th  align="center">نام/نام خانوادگی</th>
  <th  align="center">شماره دانشجویی</th>
  <th  align="center">ردیف</th>
@@ -29,14 +28,12 @@
  <tr>
  <td  align="center">https://saharzeinivand.github.io/SOP/</td>
  <td  align="center">https://saharzeinivand.github.io/Resume/</td>
- <td  align="center"></td>
  <td  align="center">سحرزینی وندمقدم</td>
  <td  align="center">980173622</td>
  <td align="center">1</td>
  </tr>
  
  <tr>
- <td  align="center"></td>
  <td  align="center"></td>
  <td  align="center"></td>
  <td  align="center"></td>
@@ -49,12 +46,10 @@
  <td  align="center"></td>
  <td  align="center"></td>
  <td  align="center"></td>
- <td  align="center"></td>
  <td align="center">3</td>
  </tr>
  
  <tr>
- <td  align="center"></td>
  <td  align="center"></td>
  <td  align="center"></td>
  <td  align="center"></td>
