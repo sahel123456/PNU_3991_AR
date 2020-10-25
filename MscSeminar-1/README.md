@@ -27,7 +27,7 @@
  </tr>
  
  <tr>
- <td  align="center" link="https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SOP">sop</td>
+ <td  align="center">https://saharzeinivand.github.io/SOP/</td>
  <td  align="center">https://saharzeinivand.github.io/Resume/</td>
  <td  align="center">سمینار/پایان نامه</td>
  <td  align="center">سحرزینی وندمقدم</td>
