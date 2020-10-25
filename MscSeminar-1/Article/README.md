@@ -15,7 +15,10 @@
  <td  align="center">
    
  <p><a  href="https://link.springer.com/chapter/10.1007/978-1-4471-7472-1_5">Soft Systems Methodology</a></p>
- 
+ <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
+
   </td>
  <td  align="center">سحرزینی وندمقدم</td>
  <td  align="center">980173622</td>
@@ -24,8 +27,9 @@
 
 <tr>
  <td  align="center">
-  
-  
+  <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
   </td>
  <td  align="center">کلثوم محمدی</td>
  <td  align="center">980199613</td>
@@ -34,9 +38,9 @@
 
 <tr>
  <td  align="center">
-  
-  
-  
+  <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
   </td>
  <td  align="center">سیدعلی محترمی</td>
  <td  align="center">980199610</td>
@@ -45,9 +49,9 @@
  
   <tr>
  <td  align="center">
-  
-  
-  
+  <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
+ <p><a  href=""></a></p>
   </td>
  <td  align="center">علیرضا سعیدی پور</td>
  <td  align="center">970208157</td>
