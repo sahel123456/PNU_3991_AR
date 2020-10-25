@@ -7,7 +7,7 @@
 
 - [رزومه](https://saharzeinivand.github.io/Resume/)
 
-- [SOP]()
+- [SOP](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SOP)
 
 ------------------
 ## Winter Semester Courses 1399/2020
