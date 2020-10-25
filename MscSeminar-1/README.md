@@ -6,60 +6,61 @@
 
   
 <tr>
-<td colspan="6">نام درس :سمینار1و2</td>
+<td colspan="6"  align="center">نام درس :سمینار1و2</td>
 </tr>
 
 <tr>
-<td colspan="6">موضوع سمینار:مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار:متدولوژی</td>
+<td colspan="6"  align="center">موضوع سمینار:مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار:متدولوژی</td>
 </tr>
 
 <tr>
-<td colspan="6">سرگروه تیم:سحرزینی وندمقدم</td>
+<td colspan="6"   align="center">سرگروه تیم:سحرزینی وندمقدم</td>
 </tr>
 
 <tr>
- <th>SOP</th>
- <th>رزومه</th>
- <th>درس</th>
- <th>نام/نام خانوادگی</th>
- <th>شماره دانشجویی</th>
- <th>ردیف</th>
+ <th  align="center">SOP</th>
+ <th  align="center">رزومه</th>
+ <th  align="center">درس</th>
+ <th  align="center">نام/نام خانوادگی</th>
+ <th  align="center">شماره دانشجویی</th>
+ <th  align="center">ردیف</th>
  </tr>
  
  <tr>
- <td></td>
- <td></td>
- <td>سمینار/پایان نامه</td>
- <td>سحرزینی وندمقدم</td>
- <td >980173622</td>
- <td>1</td>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center">سمینار/پایان نامه</td>
+ <td  align="center">سحرزینی وندمقدم</td>
+ <td  align="center">980173622</td>
+ <td align="center">1</td>
  </tr>
  
  <tr>
- <td></td>
- <td></td>
- <td>سمینار/پایان نامه</td>
- <td>سحرزینی وندمقدم</td>
- <td >980173622</td>
- <td>2</td>
+ <td  align="center"></td>
+ <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
+ <td  align="center">سمینار/پایان نامه</td>
+ <td  align="center">کلثوم محمدی</td>
+ <td  align="center">980199613</td>
+ <td align="center">2</td>
  </tr>
  
  <tr>
- <td></td>
- <td></td>
- <td>سمینار/پایان نامه</td>
- <td>سحرزینی وندمقدم</td>
- <td >980173622</td>
- <td>3</td>
+ <td  align="center"></td>
+ <td  align="center">https://samashiyane.github.io/</td>
+ <td  align="center">سمینار</td>
+ <td  align="center">سیدعلی محترمی</td>
+ <td  align="center">980199610</td>
+ <td align="center">4</td>
  </tr>
  
-<tr>
- <td></td>
- <td></td>
- <td>سمینار/پایان نامه</td>
- <td>سحرزینی وندمقدم</td>
- <td >980173622</td>
- <td>4</td>
+ <tr>
+ <td  align="center"></td>
+ <td  align="center">https://alirezasaeidipour.github.io/</td>
+ <td  align="center">سمینار تتبع</td>
+ <td  align="center">علیرضا سعیدی پور</td>
+ <td  align="center">970208157</td>
+ <td align="center">3</td>
  </tr>
+ 
  
 </table>
