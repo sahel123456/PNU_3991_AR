@@ -15,7 +15,8 @@
  <td  align="center">
    
  <p><a  href="http://bagerian.blogfa.com/post/167">انواع متدولوژی های نرم افزار</a></p>
- 
+  <p><a  href="http://www.nofa.ir/postsinsubject-postid117-forumid16.aspx">متدولوژی تولید نرم افزار </a></p>
+
   </td>
  <td  align="center">سحرزینی وندمقدم</td>
  <td  align="center">980173622</td>
