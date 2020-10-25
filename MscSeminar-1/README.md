@@ -28,7 +28,7 @@
  
  <tr>
  <td  align="center"></td>
- <td  align="center"></td>
+ <td  align="center">https://saharzeinivand.github.io/Resume/</td>
  <td  align="center">سمینار/پایان نامه</td>
  <td  align="center">سحرزینی وندمقدم</td>
  <td  align="center">980173622</td>
