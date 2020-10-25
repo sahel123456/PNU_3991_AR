@@ -1,9 +1,9 @@
 <table style="width:100%">
-<center>
+
 <tr>
-<td colspan="6" align="">اعضای گروه1</td>
+<td colspan="6" align="center">اعضای گروه1</td>
 </tr>
- <center>
+
   
 <tr>
 <td colspan="6">نام درس :سمینار1و2</td>
