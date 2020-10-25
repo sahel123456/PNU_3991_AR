@@ -54,7 +54,7 @@
  </tr>
  
  <tr>
- <td  align="center"></td>
+ <td  align="center">http://alirezasaeidipour.github.io/SOP</td>
  <td  align="center">https://alirezasaeidipour.github.io/</td>
  <td  align="center">سمینار تتبع</td>
  <td  align="center">علیرضا سعیدی پور</td>
