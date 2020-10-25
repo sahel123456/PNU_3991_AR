@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/saharzeinivand)
 
-- [رزومه](https://shfathollahi.github.io/)
+- [رزومه](https://saharzeinivand.github.io/Resume/)
 
 - [SOP]()
 
