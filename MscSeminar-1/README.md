@@ -1,16 +1,16 @@
 <table style="width:100%">
 
 <tr>
-<td colspan="6" align="center">اعضای گروه1</td>
+<td colspan="7" align="center">اعضای گروه1</td>
 </tr>
 
   
 <tr>
-<td colspan="6"  align="center">نام درس :سمینار1و2</td>
+<td colspan="7"  align="center">نام درس :سمینار1و2</td>
 </tr>
 
 <tr>
-<td colspan="6"  align="center">موضوع سمینار:مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار:متدولوژی</td>
+<td colspan="7"  align="center">موضوع سمینار:مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار:متدولوژی</td>
 </tr>
 
 <tr>
