@@ -5,7 +5,7 @@
 </tr>
   
 <tr>
- <th  align="center">فعالیت ها(یافته ها)</th>
+ <th  align="center">جزوات و پاورپوینت ها</th>
  <th  align="center">نام/نام خانوادگی</th>
  <th  align="center">شماره دانشجویی</th>
  <th  align="center">ردیف</th>
@@ -14,7 +14,7 @@
   <tr>
  <td  align="center">
    
- <p><a  href="https://link.springer.com/chapter/10.1007/978-1-4471-7472-1_5">Soft Systems Methodology</a></p>
+ <p><a  href="">/</a></p>
  
   </td>
  <td  align="center">سحرزینی وندمقدم</td>
