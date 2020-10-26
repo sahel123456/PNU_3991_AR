@@ -38,7 +38,7 @@
  </tr>
  
  <tr> 
- <td  align="center">http://mohamadimahnaz.github.io/PNU_3991_AR/</td> 
+ <td  align="center">https://github.com/mohamadimahnaz/PNU_3991_AR</td> 
  <td  align="center">https://mohamadimahnaz.github.io/sop/</td>
  <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
  <td  align="center">سمینار/پایان نامه</td>
