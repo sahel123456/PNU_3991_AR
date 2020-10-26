@@ -5,7 +5,7 @@
 </tr>
   
 <tr>
- <th  align="center">جزوات و پاورپوینت ها</th>
+ <th  align="center">جزوات و پاورپوینت هاو تمرینات دانشگاه های مختلف</th>
  <th  align="center">نام/نام خانوادگی</th>
  <th  align="center">شماره دانشجویی</th>
  <th  align="center">ردیف</th>
@@ -14,7 +14,7 @@
   <tr>
  <td  align="center">
    
- <p><a  href="">/</a></p>
+ <p><a  href="">دانشگاه شریف/درس متدولوژی ایجاد نرم افزار/تمرین</a></p>
  
   </td>
  <td  align="center">سحرزینی وندمقدم</td>
