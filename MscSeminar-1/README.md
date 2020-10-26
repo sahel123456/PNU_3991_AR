@@ -28,7 +28,7 @@
  </tr>
  
  <tr>
- <td  align="center"></td> 
+ <td  align="center">https://github.com/saharzeinivand/PNU_3991_AR</td> 
  <td  align="center">https://saharzeinivand.github.io/SOP/</td>
  <td  align="center">https://saharzeinivand.github.io/Resume/</td>
  <td  align="center">سمینار/پایان نامه</td>
@@ -38,7 +38,7 @@
  </tr>
  
  <tr> 
- <td  align="center"></td> 
+ <td  align="center">http://mohamadimahnaz.github.io/PNU_3991_AR/</td> 
  <td  align="center">https://mohamadimahnaz.github.io/sop/</td>
  <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
  <td  align="center">سمینار/پایان نامه</td>
@@ -58,7 +58,7 @@
  </tr>
  
  <tr>
- <td  align="center"></td> 
+ <td  align="center">http://github.com/alirezasaeidipour/PNU_3991_AR</td> 
  <td  align="center">http://alirezasaeidipour.github.io/SOP</td>
  <td  align="center">https://alirezasaeidipour.github.io/</td>
  <td  align="center">سمینار تتبع</td>
