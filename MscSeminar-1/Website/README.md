@@ -17,6 +17,15 @@
  <p><a  href="http://bagerian.blogfa.com/post/167">انواع متدولوژی های نرم افزار</a></p>
  <p><a  href="http://www.nofa.ir/postsinsubject-postid117-forumid16.aspx">متدولوژی تولید نرم افزار </a></p>
  <p><a  href="https://www.mhnadi.ir/entries/web-methodology/26-what-is-the-methodology">متدولوژی یا روش شناسی چیست ؟ </a></p>
+ <p><a  href="https://motamem.org/%D8%B1%D9%88%D8%B4-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%85%D8%AA%D8%AF-%D9%85%D8%AA%D9%88%D8%AF%D9%88%D9%84%D9%88%DA%98%DB%8C/">متد-متودولوژی</a></p>
+  <p><a  href=""></a></p>
+  <p><a  href=""></a></p>
+  <p><a  href=""></a></p>
+  <p><a  href=""></a></p>
+  <p><a  href=""></a></p>
+  <p><a  href=""></a></p>
+  <p><a  href=""></a></p>
+
   </td>
  <td  align="center">سحرزینی وندمقدم</td>
  <td  align="center">980173622</td>
