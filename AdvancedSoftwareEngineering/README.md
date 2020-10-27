@@ -45,7 +45,7 @@
  </tr>
  
  <tr>
- <td  align="center">https://github.com/alireza-khajehgee/PNU_3991_AR/blob/main/README.md</td> 
+ <td  align="center">https://github.com/alireza-khajehgee/PNU_3991_AR</td> 
  <td  align="center">https://alireza-khajehgee.github.io/khajehgee-sop/</td>
  <td  align="center">https://alireza-khajehgee.github.io/</td>
  <td  align="center">علیرضاخواجگی</td>
