@@ -65,7 +65,7 @@
 <tr>
  <th  align="center">https://github.com/samere-zare/PNU_3991_AR</th>
  <td  align="center">https://samere-zare.github.io/SOP/</td>
- <td  align="center">https://samere-zare.github.io/samerezare.githab.io/</td>
+ <td  align="center">https://samere-zare.github.io/Resume/</td>
  <td  align="center">سامره زارع</td>
  <td  align="center">980218785</td>
  <td align="center">5</td>
