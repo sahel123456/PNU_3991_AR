@@ -1,4 +1,5 @@
-## سیاهه ارزشیابی درس
+## سحر زینی وند مقدم 
+### سیاهه ارزشیابی درس
 
 1. **فعالیت های مشترک همه دانشجویان**
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
@@ -10,7 +11,7 @@
 2. **ارائه فصل های کتاب**
     - **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
     
-## گروه 
+### گروه 
 
 1. G-S01
     1. [_SDM-14_سامره زارع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/14_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9)
