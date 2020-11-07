@@ -7,7 +7,7 @@
 <tr>
   <td colspan="5"  align="center">موضوع پروژه:ارائه فصل های کتاب
     <p>
-      - **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
+      **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
     </p>
   </td>
 </tr>
