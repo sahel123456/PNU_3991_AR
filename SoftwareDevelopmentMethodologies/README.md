@@ -9,7 +9,7 @@
 - [GitHub](https://github.com/saharzeinivand)
 
 2. **ارائه فصل های کتاب**
-    - **G-SDM-01** : CHAPTER 20 +  CHAPTER 24 + CHAPTER 28
+    - **G-SDM-01** : CHAPTER 20 + [ CHAPTER 24 ]()+ CHAPTER 28
     
 ### گروه 
 
