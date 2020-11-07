@@ -1,16 +1,12 @@
-<table style="width:100%">
-  
-<tr>
-<td colspan="5"  align="center">نام درس :متدولوژی ایجاد نرم افزار</td>
-</tr>
 
-<tr>
-  <td colspan="5"  align="center">موضوع پروژه:ارائه فصل های کتاب
-    <p>
-      **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
+  <p colspan="5"  align="center">نام درس :متدولوژی ایجاد نرم افزار</p>
+
+  <p colspan="5"  align="center">موضوع پروژه:ارائه فصل های کتاب</p>
+    
+ <p align="center">
+     - **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
     </p>
-  </td>
-</tr>
+
 
 <tr>
 <td colspan="5"   align="center">اعضای تیم</td>
