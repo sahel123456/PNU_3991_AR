@@ -1,18 +1,18 @@
 <table style="width:100%">
   
 <tr>
-<td colspan="1"  align="center">نام درس :متدولوژی ایجاد نرم افزار</td>
+<td colspan="5"  align="center">نام درس :متدولوژی ایجاد نرم افزار</td>
 </tr>
 
 <tr>
-<td colspan="1"  align="center">موضوع پروژه:ارائه فصل های کتاب</td>
+<td colspan="5"  align="center">موضوع پروژه:ارائه فصل های کتاب</td>
 </tr>
 
 <tr>
-<td colspan="1"   align="center">اعضای تیم</td>
+<td colspan="5"   align="center">اعضای تیم</td>
 </tr>
 <tr>
-<td colspan="1"   align="center">
+<td colspan="5"   align="center">
   
 1. G-S01
     1. [_SDM-14_سامره زارع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/14_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9)
