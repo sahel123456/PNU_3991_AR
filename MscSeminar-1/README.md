@@ -57,15 +57,6 @@
  <td align="center">3</td>
  </tr>
  
- <tr>
- <td  align="center">http://github.com/alirezasaeidipour/PNU_3991_AR</td> 
- <td  align="center">http://alirezasaeidipour.github.io/SOP</td>
- <td  align="center">https://alirezasaeidipour.github.io/</td>
- <td  align="center">سمینار تتبع</td>
- <td  align="center">علیرضا سعیدی پور</td>
- <td  align="center">970208157</td>
- <td align="center">4</td>
- </tr>
 </table>
 
 ----------------------------------
