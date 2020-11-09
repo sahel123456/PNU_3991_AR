@@ -1,55 +1,18 @@
-<table style="width:100%">
+<p align="right">سلام</p>
+<p align="right">:موضوع سمینار</p>
+<p align="right">مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاههای ایران</p>
+<p align="right">حوزه مهندسی نرم افزار : متدولوژی</p>
+<p align="right">:شرح</p>
+<p align="right">با توجه به کثرت دانشجویان رشته ای مرتبط با مهندسی نرم افزار در مقاطع مختلف ولکن ضعف های زیرساختی همانند عدم وجود آزمایشگاههای مجهز و اشتغال همزمان دانشجو به فعالیت های غیر درسی، و همچنین ظرفیت بسیار بزرگ نیروی انسانی دانش آموخته در این حوزه که بدلیل عدم وجود امکانات و پروژه ها و فعالیت های ثروت افزا به فعالیت در حوزه های غیر مرتبط مشغول شده اند لذا ناتوانی مشهود برفعالیت های مهندسی نرم افزار مشهود بنظر میرسد.در چنین شرایط لزوم بهره مندی از متدولوژی های توسعه خاص شرایط کنونی کشور می توانند راه حلی برای ایجاد فضای کاری و انجام پروژه های موثر عمل نماید.دانشجو یا دانشجویان علاقه مند به این مووضع بایستی با مطالعه متدولوژی های مختلف و مقایسه آنها با یکدیگر و با شرایط موجود میزان اثربخشی و یا دلایل ناکار آمدی متدولوژی های متداول و موجود را شفاف نموده برای گام بعدی در انجام پایان نامه موضوعات و مسائل مشخصی را برشمارند.</p>
+ <p align="right">موفق باشید</p> 
+<p align="right"><a href="https://github.com/saharzeinivand/TERM_3991/projects/1">تقسیم کار</a></p>
 
-<tr>
-<td colspan="7" align="center">اعضای گروه1</td>
-</tr>
-
-  
-<tr>
-<td colspan="7"  align="center">نام درس :سمینار1و2</td>
-</tr>
-
-<tr>
-<td colspan="7"  align="center">موضوع سمینار:مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار:متدولوژی</td>
-</tr>
-
-<tr>
-<td colspan="6"   align="center">سرگروه تیم:سحرزینی وندمقدم</td>
-</tr>
-
-<tr>
- <th  align="center">PNU_3991_AR</th>
- <th  align="center">SOP</th>
- <th  align="center">رزومه</th>
- <th  align="center">درس</th>
- <th  align="center">نام/نام خانوادگی</th>
- <th  align="center">شماره دانشجویی</th>
- <th  align="center">ردیف</th>
- </tr>
- 
- <tr>
- <td  align="center">https://github.com/saharzeinivand/PNU_3991_AR</td> 
- <td  align="center">https://saharzeinivand.github.io/SOP/</td>
- <td  align="center">https://saharzeinivand.github.io/Resume/</td>
- <td  align="center">سمینار/پایان نامه</td>
- <td  align="center">سحرزینی وندمقدم</td>
- <td  align="center">980173622</td>
- <td align="center">1</td>
- </tr>
- 
- <tr> 
- <td  align="center">https://github.com/mohamadimahnaz/PNU_3991_AR</td> 
- <td  align="center">https://mohamadimahnaz.github.io/sop/</td>
- <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
- <td  align="center">سمینار/پایان نامه</td>
- <td  align="center">کلثوم محمدی</td>
- <td  align="center">980199613</td>
- <td align="center">2</td>
- </tr>
-
- 
-</table>
 
 ----------------------------------
+<p align="right">اعضای تیم</p>
+<p align="right">
+  G-MS01
+    1. [_MS-1_سحر زيني وندمقدم]()        
+    1. [_MS-1_كلثوم محمدي]()
 
-
+</p>
