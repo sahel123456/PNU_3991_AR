@@ -11,8 +11,8 @@
 ----------------------------------
 <p align="right">اعضای تیم</p>
 <p align="right">G-MS01</p>
+<p align="right"><a href="">_MS-1_سحر زيني وندمقدم</a></p>
+<p align="right"><a href="">_MS-1_كلثوم محمدي</a></p>
   
-<p align="right">  1. [_MS-1_سحر زيني وندمقدم]() </p> 
-<p align="right">  1. [_MS-1_كلثوم محمدي]() </p>
 
 
