@@ -6,11 +6,13 @@
 - [GitHub](https://github.com/saharzeinivand)
 
 - [ارائه_CHAPTER 24]()
+
        01. [1.5_ETHICS]()
        02. [2.5_KADS]()
        03. [3.5_CommonKADS]()
        
 - [ارائه_CHAPTER 01]()
+
           01. [1.2]()
           02. [1.2.1]()
           03. [1.2.2]()
