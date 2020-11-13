@@ -4,6 +4,8 @@
 - [SOP](https://saharzeinivand.github.io/SOP/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
+- [ارائه_CHAPTER 24]()
+- [ارائه_CHAPTER 01(1.2,1.2.2,1.2.3,1.2.4,1.2.5,1.2.6)]()
 -----------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
@@ -34,5 +36,4 @@
     1. [_SDM-17_عليرضا سعيدي پور_CHAPTER 28_CHAPTER 01(1.3,1.3.1,1.3.2,1.3.3,1.3.4,1.3.5)](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/17_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)
 
 -----------------------
-- [ارائه_CHAPTER 24]()
-- [ارائه_CHAPTER 01(1.2,1.2.2,1.2.3,1.2.4,1.2.5,1.2.6)]()
+
