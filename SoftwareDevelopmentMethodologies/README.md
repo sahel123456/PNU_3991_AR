@@ -7,9 +7,9 @@
 
 - [ارائه_CHAPTER 24]()
 
-     -  01. [1.5_ETHICS]()
-     -  02. [2.5_KADS]()
-     -  03. [3.5_CommonKADS]()
+     -  0_1. [1.5_ETHICS]()
+     -  0_2. [2.5_KADS]()
+     -  0_3. [3.5_CommonKADS]()
        
 - [ارائه_CHAPTER 01]()
 
