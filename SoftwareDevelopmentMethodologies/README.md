@@ -34,4 +34,5 @@
     1. [_SDM-17_عليرضا سعيدي پور_CHAPTER 28](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/17_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)
 
 -----------------------
-
+[ارائه_CHAPTER 24]()
+[ارائه_CHAPTER 01]()
