@@ -20,7 +20,12 @@
 
     - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern
 
+3.  **ارائه کتاب**
+   - هر گروه 2 فصل از کتاب ریچارد
+     
+        ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
 
+   - **G-SA-01** : Chapter 1 + Chapter 7
 ----------------
 ## گروه ها
 
