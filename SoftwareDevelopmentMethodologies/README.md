@@ -7,9 +7,9 @@
 
 - [ارائه_CHAPTER 24]()
 
-     -  _01. [1.5_ETHICS]()
-     -  _02. [2.5_KADS]()
-     -  _03. [3.5_CommonKADS]()
+     -  _01. [1.5_ETHICS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
+     -  _02. [2.5_KADS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
+     -  _03. [3.5_CommonKADS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
        
 - [ارائه_CHAPTER 01]()
 
