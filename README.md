@@ -1,5 +1,6 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
-<div dir="lrt">
+
+<div dir="rtl">
 ---------
 # سحر زینی وند
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
@@ -49,6 +50,7 @@
 
 ## روز و ساعت ارائه دروس
 
+<div dir="ltr">
 <table style="width:100%">
   <tr>
     <th >17-19</th>
@@ -107,4 +109,7 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+     
+   </div>
+
 </div>
