@@ -57,7 +57,7 @@
 
 <div dir="ltr">
      
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <th >17-19</th>
     <th >14-16</th>
