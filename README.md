@@ -1,4 +1,5 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+<div dir="lrt">
 ---------
 # سحر زینی وند
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
@@ -106,3 +107,4 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+</div>
