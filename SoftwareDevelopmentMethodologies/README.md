@@ -23,13 +23,13 @@
 
 - [Reading]
 
-    -  _01. [1.2_Characteristics of Web Information Systems]()
-    -  _02. [1.2.1_Intention]()
-    -  _03. [1.2.2_Usage]()
-    -  _04. [1.2.3_Content]()
-    -  _05. [1.2.4_Functionality]()
-    -  _06. [1.2.5_Context]()
-    -  _07. [1.2.6_Presentation]()
+    - [1.2_Characteristics of Web Information Systems]()
+      - [1.2.1_Intention]()
+      - [1.2.2_Usage]()
+      - [1.2.3_Content]()
+      - [1.2.4_Functionality]()
+      - [1.2.5_Context]()
+      - [1.2.6_Presentation]()
 
 ----------------------------
 ## گروه 
