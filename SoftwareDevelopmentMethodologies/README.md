@@ -9,7 +9,9 @@
 
 --------------------------
 
-- [ارائه_CHAPTER 24]()
+## [CHAPTER 24_People-oriented methodologies]()
+
+- [Presentation]
 
      -  _01. [1.5_ETHICS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
      -  _02. [2.5_KADS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
@@ -17,12 +19,11 @@
      
 -----------------------------------
        
-# [Design and Development of Web Information Systems CHAPTER 01 page_3-27]()
+## [Design and Development of Web Information Systems CHAPTER 01 page_3-27]()
 
 - [Reading]
 
     -  _01. [1.2_Characteristics of Web Information Systems]()
-      - 
     -  _02. [1.2.1_Intention]()
     -  _03. [1.2.2_Usage]()
     -  _04. [1.2.3_Content]()
