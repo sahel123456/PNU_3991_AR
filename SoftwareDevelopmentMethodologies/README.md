@@ -7,11 +7,15 @@
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
 
+--------------------------
+
 - [ارائه_CHAPTER 24]()
 
      -  _01. [1.5_ETHICS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
      -  _02. [2.5_KADS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
      -  _03. [3.5_CommonKADS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
+     
+-----------------------------------
        
 # [Design and Development of Web Information Systems CHAPTER 01 page_3-27]()
 
