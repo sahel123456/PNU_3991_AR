@@ -8,8 +8,17 @@
 - [SOP](https://saharzeinivand.github.io/SOP/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
-- [پیاده سازی_Abstract Factory pattern](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture/abstract%20factory)
+-------------------
+## Implementation_Java Script
+
+- [Implementation_Abstract Factory pattern](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture/abstract%20factory)
+
 --------------
+
+## CHAPTER 7_Architectures
+
+- [Visualizing Software Architectures]()
+---------------------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
