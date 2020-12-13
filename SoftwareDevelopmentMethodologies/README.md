@@ -11,7 +11,7 @@
 
 --------------------------
 
-## [CHAPTER 24_People-oriented methodologies]()
+## CHAPTER 24_People-oriented methodologies
 
 ### Presentation
 
@@ -21,7 +21,7 @@
      
 -----------------------------------
        
-## [CHAPTER 01_Design and Development of Web Information Systems]()
+## CHAPTER 01_Design and Development of Web Information Systems
 
 ### Reading
 
