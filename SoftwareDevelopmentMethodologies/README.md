@@ -25,15 +25,15 @@
 
 ### Reading
 
-   - [1.2_Characteristics of Web Information Systems]()
-      - [1.2.1_Intention]()
-        - [Business]()
-        - [Communities and Groups]()
-        - [Entertainment]()
-        - [Identity and Personal Presentation]()
-        - [Learning and Edutainment]()
-        - [Information Services]()
-      - [1.2.2_Usage](https://drive.google.com/file/d/1jMJflVZEgUg04gGfXd5C0elDipA4OB7h/view?usp=sharing)
+   - [1.2_Characteristics of Web Information Systems](https://drive.google.com/file/d/1l-UzPEOWuhlIHSH22aUdvOSj2JbnHjM_/view?usp=sharing)
+      - [1.2.1_Intention](https://drive.google.com/file/d/1jMJflVZEgUg04gGfXd5C0elDipA4OB7h/view?usp=sharing)
+        - Business
+        - Communities and Groups
+        - Entertainment
+        - Identity and Personal Presentation
+        - Learning and Edutainment
+        - Information Services
+      - [1.2.2_Usage]()
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Entertainment
@@ -41,18 +41,18 @@
         - Learning and Edutainment
         - Information Services
       - [1.2.3_Content]()
-        - [Electronic Business and Electronic Commerce]()
-        - [Communities and Groups]()
-        - [Identity and Personal Presentation]()
-        - [Learning and Edutainment]()
-        - [Information Services]()
+        - Electronic Business and Electronic Commerce
+        - Communities and Groups
+        - Identity and Personal Presentation
+        - Learning and Edutainment
+        - Information Services
       - [1.2.4_Functionality]()
-        - [Electronic Business and Electronic Commerce]()
-        - [Communities and Groups]()
-        - [Entertainment]()
-        - [Identity and Personal Presentation]()
-        - [Learning and Edutainment]()
-        - [Information Services]()
+        - Electronic Business and Electronic Commerce
+        - Communities and Groups
+        - Entertainment
+        - Identity and Personal Presentation
+        - Learning and Edutainment
+        - Information Services
       - [1.2.5_Context]()
       - [1.2.6_Presentation]()
 
