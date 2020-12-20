@@ -33,13 +33,13 @@
         - [Identity and Personal Presentation]()
         - [Learning and Edutainment]()
         - [Information Services]()
-      - [1.2.2_Usage]()
-        - [Electronic Business and Electronic Commerce]()
-        - [Communities and Groups]()
-        - [Entertainment]()
-        - [Identity and Personal Presentation]()
-        - [Learning and Edutainment]()
-        - [Information Services]()
+      - [1.2.2_Usage](https://drive.google.com/file/d/1jMJflVZEgUg04gGfXd5C0elDipA4OB7h/view?usp=sharing)
+        - Electronic Business and Electronic Commerce
+        - Communities and Groups
+        - Entertainment
+        - Identity and Personal Presentation
+        - Learning and Edutainment
+        - Information Services
       - [1.2.3_Content]()
         - [Electronic Business and Electronic Commerce]()
         - [Communities and Groups]()
