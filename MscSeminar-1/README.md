@@ -1,7 +1,14 @@
 # [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
 
 <div dir="rtl">
-
+ 
+# سحر زینی وند
+- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
+- [Resume](https://saharzeinivand.github.io/) 
+- [SOP](https://saharzeinivand.github.io/SOP/)
+- [Certificates](https://saharzeinivand.github.io/Certificates/)
+- [GitHub](https://github.com/saharzeinivand)
+ ---------------------------
 <p>سلام</p>
 <p>:موضوع سمینار</p>
 <p>مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاههای ایران</p>
