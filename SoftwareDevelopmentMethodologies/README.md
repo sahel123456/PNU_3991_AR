@@ -54,7 +54,7 @@
         - Learning and Edutainment
         - Information Services
       - [1.2.5_Context](https://drive.google.com/file/d/1IBvOjXr6rpa0Cq71SPUwWZQeWx0EevKr/view?usp=sharing)
-      - [1.2.6_Presentation](https://drive.google.com/file/d/1-9NTbpBft3NiTZ44F6kXa-PRrgHCcezW/view?usp=sharing)
+      - [1.2.6_Presentation](https://drive.google.com/file/d/1sfpiHHlV_PD9y7CafUufJrPi1_y3nJyn/view?usp=sharing)
 
 
 ----------------------------
