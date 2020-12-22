@@ -33,7 +33,7 @@
         - Identity and Personal Presentation
         - Learning and Edutainment
         - Information Services
-      - [1.2.2_Usage]()
+      - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Entertainment
