@@ -40,7 +40,7 @@
         - Identity and Personal Presentation
         - Learning and Edutainment
         - Information Services
-      - [1.2.3_Content]()
+      - [1.2.3_Content](https://drive.google.com/file/d/11GhcsCjOk26076y3vDX5ItbBxXLnh8u8/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Identity and Personal Presentation
