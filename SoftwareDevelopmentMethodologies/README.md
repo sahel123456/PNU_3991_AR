@@ -75,7 +75,7 @@
   </tr>
    </table>
    
-  - [1.2.4_Functionality](https://drive.google.com/file/d/1WXZsqZgTa7aI_TdiIzXp6kcsRcLDjI1A/view?usp=sharing)
+   - [1.2.4_Functionality](https://drive.google.com/file/d/1WXZsqZgTa7aI_TdiIzXp6kcsRcLDjI1A/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Entertainment
