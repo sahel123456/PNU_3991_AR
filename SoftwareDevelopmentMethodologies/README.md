@@ -65,7 +65,9 @@
         
    <table style="width:100%">
   <tr>
-    <th >16-18</th>
+    <th >
+       <p>1.2.2)کاربرد:</p>
+     </th>
   </tr>
    </table>
    
