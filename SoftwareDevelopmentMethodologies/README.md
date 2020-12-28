@@ -34,7 +34,8 @@
         - Learning and Edutainment
         - Information Services
         
-<textarea>
+<textarea name="someName" cols="40" rows="3">
+این متن به صورت متن داخلی کادر نمایش داده می شود
 </textarea>
 
    - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
