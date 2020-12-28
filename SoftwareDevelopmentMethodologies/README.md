@@ -26,13 +26,12 @@
 ### Reading
 
    - [1.2_Characteristics of Web Information Systems](https://drive.google.com/file/d/1l-UzPEOWuhlIHSH22aUdvOSj2JbnHjM_/view?usp=sharing)
+   
    <table style="width:100%">
   <tr>
     <th >16-18</th>
   </tr>
    </table>
-   
----------------------
 
    - [1.2.1_Intention](https://drive.google.com/file/d/1jMJflVZEgUg04gGfXd5C0elDipA4OB7h/view?usp=sharing)
         - Business
@@ -41,28 +40,69 @@
         - Identity and Personal Presentation
         - Learning and Edutainment
         - Information Services
-     - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
+        
+        <table style="width:100%">
+  <tr>
+    <th >16-18</th>
+  </tr>
+   </table>
+   
+   - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Entertainment
         - Identity and Personal Presentation
         - Learning and Edutainment
         - Information Services
-      - [1.2.3_Content](https://drive.google.com/file/d/11GhcsCjOk26076y3vDX5ItbBxXLnh8u8/view?usp=sharing)
+        
+        <table style="width:100%">
+  <tr>
+    <th >16-18</th>
+  </tr>
+   </table>
+   
+   - [1.2.3_Content](https://drive.google.com/file/d/11GhcsCjOk26076y3vDX5ItbBxXLnh8u8/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Identity and Personal Presentation
         - Learning and Edutainment
         - Information Services
-      - [1.2.4_Functionality](https://drive.google.com/file/d/1WXZsqZgTa7aI_TdiIzXp6kcsRcLDjI1A/view?usp=sharing)
+        
+        <table style="width:100%">
+  <tr>
+    <th >16-18</th>
+  </tr>
+   </table>
+   
+   - [1.2.4_Functionality](https://drive.google.com/file/d/1WXZsqZgTa7aI_TdiIzXp6kcsRcLDjI1A/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Entertainment
         - Identity and Personal Presentation
         - Learning and Edutainment
         - Information Services
-      - [1.2.5_Context](https://drive.google.com/file/d/1IBvOjXr6rpa0Cq71SPUwWZQeWx0EevKr/view?usp=sharing)
-      - [1.2.6_Presentation](https://drive.google.com/file/d/1sfpiHHlV_PD9y7CafUufJrPi1_y3nJyn/view?usp=sharing)
+        
+        <table style="width:100%">
+  <tr>
+    <th >16-18</th>
+  </tr>
+   </table>
+   
+   - [1.2.5_Context](https://drive.google.com/file/d/1IBvOjXr6rpa0Cq71SPUwWZQeWx0EevKr/view?usp=sharing)
+   
+   <table style="width:100%">
+  <tr>
+    <th >16-18</th>
+  </tr>
+   </table>
+   
+   - [1.2.6_Presentation](https://drive.google.com/file/d/1sfpiHHlV_PD9y7CafUufJrPi1_y3nJyn/view?usp=sharing)
+   
+   <table style="width:100%">
+  <tr>
+    <th >16-18</th>
+  </tr>
+   </table>
 
 
 ----------------------------
