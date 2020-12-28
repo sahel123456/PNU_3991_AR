@@ -47,7 +47,7 @@
   </tr>
    </table>
    
-  - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
+   - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Entertainment
