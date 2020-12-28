@@ -26,6 +26,11 @@
 ### Reading
 
    - [1.2_Characteristics of Web Information Systems](https://drive.google.com/file/d/1l-UzPEOWuhlIHSH22aUdvOSj2JbnHjM_/view?usp=sharing)
+   <table style="width:100%">
+  <tr>
+    <th >16-18</th>
+  </tr>
+   </table>
       - [1.2.1_Intention](https://drive.google.com/file/d/1jMJflVZEgUg04gGfXd5C0elDipA4OB7h/view?usp=sharing)
         - Business
         - Communities and Groups
