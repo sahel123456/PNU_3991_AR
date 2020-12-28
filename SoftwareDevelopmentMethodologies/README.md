@@ -26,6 +26,9 @@
 ### Reading
 
    - [1.2_Characteristics of Web Information Systems](https://drive.google.com/file/d/1l-UzPEOWuhlIHSH22aUdvOSj2JbnHjM_/view?usp=sharing)
+-----------------------------
+
+
       - [1.2.1_Intention](https://drive.google.com/file/d/1jMJflVZEgUg04gGfXd5C0elDipA4OB7h/view?usp=sharing)
         - Business
         - Communities and Groups
@@ -34,11 +37,9 @@
         - Learning and Edutainment
         - Information Services
         
-<textarea name="someName" cols="40" rows="3">
-این متن به صورت متن داخلی کادر نمایش داده می شود
-</textarea>
 
-   - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
+
+     - [1.2.2_Usage](https://drive.google.com/file/d/1iEv2bTpXJVyabCQwSIZrSjUdCYwvunmZ/view?usp=sharing)
         - Electronic Business and Electronic Commerce
         - Communities and Groups
         - Entertainment
