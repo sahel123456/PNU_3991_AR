@@ -96,7 +96,9 @@
         
   <table style="width:100%">
   <tr>
-    <th >16-18</th>
+    <th >
+       <p>1.2.4 )عملکرد:</p>
+     </th>
   </tr>
    </table>
    
@@ -112,7 +114,9 @@
    
    <table style="width:100%">
   <tr>
-    <th >16-18</th>
+    <th >
+       <p>1.2.6)Presentation:</p>
+     </th>
   </tr>
    </table>
 
