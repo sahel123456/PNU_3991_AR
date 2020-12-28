@@ -115,7 +115,7 @@
    <table style="width:100%">
   <tr>
     <th >
-       <p>1.2.6)Presentation:</p>
+       <p>(1.2.6 ارائه:</p>
      </th>
   </tr>
    </table>
