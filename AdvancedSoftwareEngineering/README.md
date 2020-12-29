@@ -7,6 +7,11 @@
 - [SOP](https://saharzeinivand.github.io/Sop/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
+
+-------------------------
+- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
+- [PRJ_TeamWorking](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
+- [CollaborativeReading](https://accounts.crowdin.com/login)
 --------------------------
 ## سیاهه ارزشیابی درس
 
@@ -32,13 +37,6 @@
 
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
-
-    
--------------------------
-- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
-- [PRJ_TeamWorking](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
-- [CollaborativeReading](https://accounts.crowdin.com/login)
-# 
 
 ----------------------
 
