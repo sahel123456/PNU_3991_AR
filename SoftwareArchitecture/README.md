@@ -17,7 +17,7 @@
 
 ## CHAPTER 7_Architectures
 
-- [Visualizing Software Architectures]()
+- [Visualizing Software Architectures](https://drive.google.com/file/d/13CXuQBOjqBHE7iZUvUkGU4BEgD-blFOu/view?usp=sharing)
 ---------------------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
