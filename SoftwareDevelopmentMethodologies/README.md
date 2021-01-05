@@ -2,14 +2,19 @@
 
 <div dir="rtl">
 
-# سحر زینی وند
+## سحر زینی وند
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
 - [Resume](https://saharzeinivand.github.io) 
 - [SOP](https://saharzeinivand.github.io/Sop/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
-- [SZ_CV_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_CV_CheckList_AR_3991.pdf)
-- [SZ_GeneralSection_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_GeneralSection_CheckList_AR_3991.pdf)
+
+> ارزیابی ها
+##  بخش عمومی
+- [SZ_CV_CheckList_AR_3991]()
+- [SZ_GeneralSection_CheckList_AR_3991]()
+
+## دروس ارشد
 --------------------------
 
 ## CHAPTER 24_People-oriented methodologies
