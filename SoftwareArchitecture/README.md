@@ -2,14 +2,20 @@
 
 <div dir="rtl">
 
-# سحر زینی وند
+## سحر زینی وند
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
 - [Resume](https://saharzeinivand.github.io) 
 - [SOP](https://saharzeinivand.github.io/Sop/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
+
+> ارزیابی ها
+##  بخش عمومی
 - [SZ_CV_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_CV_CheckList_AR_3991.pdf)
 - [SZ_GeneralSection_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_GeneralSection_CheckList_AR_3991.pdf)
+
+## دروس ارشد
+
 -------------------
 ## Implementation_Java Script
 
