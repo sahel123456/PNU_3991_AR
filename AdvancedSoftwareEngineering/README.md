@@ -1,45 +1,25 @@
 # [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
 <div dir="rtl">
-    
-# سحر زینی وند
+  ## سحر زینی وند
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
 - [Resume](https://saharzeinivand.github.io) 
 - [SOP](https://saharzeinivand.github.io/Sop/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
-- [SZ_CV_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_CV_CheckList_AR_3991.pdf)
-- [SZ_GeneralSection_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_GeneralSection_CheckList_AR_3991.pdf)
--------------------------
+
+> ارزیابی ها
+##  بخش عمومی
+- [SZ_CV_CheckList_AR_3991]()
+- [SZ_GeneralSection_CheckList_AR_3991]()
+
+-----------------------------
+## دروس ارشد  
+
 - [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
 - [PRJ_TeamWorking](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
 - [CollaborativeReading](https://accounts.crowdin.com/login)
+
 --------------------------
-## سیاهه ارزشیابی درس
-
-1. **فعالیت های مشترک همه دانشجویان**
-    1. ساخت اکانت گیت هاب
-    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهای درسی
-
-2. **پروژه هم خوانی**
-      - **تعریف** 
-          - ایجاد بستر مشارکت جمعی در خوانش و هم خوانی و درک مفاهیم و برگردان زبانی کتابهای تخصصی میباشد 
-      - **فعالیت های دانشجویی** 
-           - تلاش های گروهی مرتبط با فرایند نرم افزار
-
-3. **هم خوانی کتاب**
-    - [An Executive’s Guide to Software Quality in an Agile Organization: A Continuous Improvement Journey](http://library.lol/main/01157942A7F8B2FAAA9F6DB6F7F5C2A7) 
-      - **فعالیت های دانشجویی** 
-           - همخوانی و همفکری در درک مفاهیم و برگردان زبانی متن تخصصی کتاب
-
-4. **پروژه های کوچک کاربردی**
-    - مشارکت در پروژه های درسی کوچک و مستقل
-
-----------------------
 
 ## گروه
 
