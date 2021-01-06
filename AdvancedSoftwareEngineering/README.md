@@ -11,8 +11,13 @@
 -----------------------------
 ## دروس ارشد  
 
-- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
+پروژه کوچک
+
 - [PRJ_TeamWorking](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
+
+همخوانی
+
+- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
 - [CollaborativeReading](https://accounts.crowdin.com/login)
 
 --------------------------
