@@ -15,14 +15,14 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [SZ_CV_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_CV_CheckList_AR_3991.pdf)
-- [SZ_GeneralSection_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [AdvancedSoftwareEngineering]()
-- [SoftwareDevelopmentMethodologies]()
-- [SoftwareArchitecture]()
-- [Seminar]()
+- [ارزیابی _مهندسی نرم افزار پیشرفته]()
+- [ارزیابی_متدولوژی ایجاد نرم افزار]()
+- [ارزیابی_معماری نرم افزار]()
+- [ارزیابی_سمینار]()
 
 ------------------
 ## فهرست درس ها  
