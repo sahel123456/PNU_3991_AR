@@ -12,6 +12,12 @@
 - [GitHub](https://github.com/saharzeinivand)
 
 ------------------
+> ارزیابی ها
+##  بخش عمومی
+- [SZ_CV_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_CV_CheckList_AR_3991.pdf)
+- [SZ_GeneralSection_CheckList_AR_3991](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_GeneralSection_CheckList_AR_3991.pdf)
+
+------------------
 ## فهرست درس ها  
 
 [1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
